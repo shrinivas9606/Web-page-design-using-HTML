@@ -1,2 +1,3 @@
 # Web-page-design-using-HTML
 I have created student registration form for college using html.
+In this I have taken students name, date of birth, address, email, mobile number, state, district, pincode, etc....
